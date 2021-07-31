@@ -1,0 +1,14 @@
+Package: hunterbuster
+Maintainer: BeatBurner(Mr Rahim)
+Installed-Size: 160144
+Architecture: all
+Homepage: https://github.com/beatburner
+Description: Hunter Buster is a all in one Footprinting tool specially for termux application. Dump Your targets easily by hunter buster
+Version: 1.0
+Filename: dists/termux/extras/binary-all/hbuster.deb
+Size: 30180040
+MD5Sum: d2a5b1cbc8865f24cb276ecb8724c6c0
+SHA1: cbca9744a1ff5bf8ef7f8a96b4455982ad631807
+SHA256: 852163673564afb5d628bc639f27870b90d3ba53ee1053daadb3514680019403
+SHA512: 0511a18c93680c9fa25d74685719f0f694354ea6c025da209f88cc0dde29ac15fed4695dcbfd3be85e6dfb62ca60d84390f962bdd9626a6706520f869768858e
+
